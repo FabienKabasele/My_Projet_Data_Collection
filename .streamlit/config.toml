@@ -1,0 +1,5 @@
+[theme]
+backgroundColor="#e6f3ff"       # Couleur de fond principale (bleu clair)
+secondaryBackgroundColor="#d4edda"  # Couleur de la sidebar (vert clair)
+textColor="#0e0f10"            # Couleur du texte (noir)
+font="serif"
